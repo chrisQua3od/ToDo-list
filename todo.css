@@ -1,5 +1,5 @@
 body {
-    background: #d0dbdf;
+    background: #f9f9f9;
     color: #2693be;
 
     font-family: 'Raleway';
@@ -51,11 +51,11 @@ li .done {
 
 li .delete:hover {
     background: #2693be;
-    color: #d0dbdf;
+    color: #f9f9f9;
 }
 li  .done:hover{
     background: #2693be;
-    color: #d0dbdf;
+    color: #f9f9f9;
 }
 li .text {
     display: inline;
@@ -66,7 +66,7 @@ li .text {
     margin: 0 0 15px 0;
     padding: 10px;
 
-    background: #d0dbdf;
+    background: #f9f9f9;
     border: 1px solid #2693be;
     color: #2693be;
 
@@ -78,7 +78,7 @@ li .text {
     padding: 10px;
 
     background: #2693be;
-    color: #d0dbdf;
+    color: #f9f9f9;
     border: 0;
 
     font-family: 'Raleway';
@@ -86,7 +86,7 @@ li .text {
 }
 
 #add-task:hover {
-    background: #d0dbdf;
+    background: #f9f9f9;
     border: 1px solid #2693be;
     color: #2693be;
 }
